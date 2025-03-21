@@ -1,8 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.5.2.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenInvaders", "ChickenInvaders.csproj", "{F5102803-06A4-56FD-17FD-7B55EE9F276C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChickenInvaders", "ChickenInvaders\ChickenInvaders.csproj", "{05CA4838-FEF9-43BA-8913-A8B97F2025CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F5102803-06A4-56FD-17FD-7B55EE9F276C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F5102803-06A4-56FD-17FD-7B55EE9F276C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F5102803-06A4-56FD-17FD-7B55EE9F276C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F5102803-06A4-56FD-17FD-7B55EE9F276C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05CA4838-FEF9-43BA-8913-A8B97F2025CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05CA4838-FEF9-43BA-8913-A8B97F2025CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05CA4838-FEF9-43BA-8913-A8B97F2025CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05CA4838-FEF9-43BA-8913-A8B97F2025CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FE805467-DDF8-4D66-B36C-5C0ABCCB703F}
+		SolutionGuid = {45F1CCDD-40AF-486F-9FCD-F2A7103ED942}
 	EndGlobalSection
 EndGlobal
